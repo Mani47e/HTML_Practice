@@ -1,1 +1,1 @@
-#  It conatins Basicds i learned in HTML
+#  It conatins Basics i learned in HTML
